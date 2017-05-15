@@ -1,0 +1,497 @@
+C:\Users\Andrew\Documents\Visual Studio 2015\Projects\Metanit\IdentityMvc\IdentityMvc\bin\roslyn\csc.exe
+C:\Users\Andrew\Documents\Visual Studio 2015\Projects\Metanit\IdentityMvc\IdentityMvc\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Andrew\Documents\Visual Studio 2015\Projects\Metanit\IdentityMvc\IdentityMvc\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Andrew\Documents\Visual Studio 2015\Projects\Metanit\IdentityMvc\IdentityMvc\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Andrew\Documents\Visual Studio 2015\Projects\Metanit\IdentityMvc\IdentityMvc\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Andrew\Documents\Visual Studio 2015\Projects\Metanit\IdentityMvc\IdentityMvc\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Andrew\Documents\Visual Studio 2015\Projects\Metanit\IdentityMvc\IdentityMvc\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Andrew\Documents\Visual Studio 2015\Projects\Metanit\IdentityMvc\IdentityMvc\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Andrew\Documents\Visual Studio 2015\Projects\Metanit\IdentityMvc\IdentityMvc\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Andrew\Documents\Visual Studio 2015\Projects\Metanit\IdentityMvc\IdentityMvc\bin\roslyn\vbc.exe
+C:\Users\Andrew\Documents\Visual Studio 2015\Projects\Metanit\IdentityMvc\IdentityMvc\bin\roslyn\VBCSCompiler.exe
+C:\Users\Andrew\Documents\Visual Studio 2015\Projects\Metanit\IdentityMvc\IdentityMvc\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Andrew\Documents\Visual Studio 2015\Projects\Metanit\IdentityMvc\IdentityMvc\bin\IdentityMvc.dll.config
+C:\Users\Andrew\Documents\Visual Studio 2015\Projects\Metanit\IdentityMvc\IdentityMvc\bin\IdentityMvc.dll
+C:\Users\Andrew\Documents\Visual Studio 2015\Projects\Metanit\IdentityMvc\IdentityMvc\bin\IdentityMvc.pdb
+C:\Users\Andrew\Documents\Visual Studio 2015\Projects\Metanit\IdentityMvc\IdentityMvc\bin\Antlr3.Runtime.dll
+C:\Users\Andrew\Documents\Visual Studio 2015\Projects\Metanit\IdentityMvc\IdentityMvc\bin\EntityFramework.dll
+C:\Users\Andrew\Documents\Visual Studio 2015\Projects\Metanit\IdentityMvc\IdentityMvc\bin\EntityFramework.SqlServer.dll
+C:\Users\Andrew\Documents\Visual Studio 2015\Projects\Metanit\IdentityMvc\IdentityMvc\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Andrew\Documents\Visual Studio 2015\Projects\Metanit\IdentityMvc\IdentityMvc\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Andrew\Documents\Visual Studio 2015\Projects\Metanit\IdentityMvc\IdentityMvc\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Andrew\Documents\Visual Studio 2015\Projects\Metanit\IdentityMvc\IdentityMvc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Andrew\Documents\Visual Studio 2015\Projects\Metanit\IdentityMvc\IdentityMvc\bin\Microsoft.Owin.dll
+C:\Users\Andrew\Documents\Visual Studio 2015\Projects\Metanit\IdentityMvc\IdentityMvc\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Andrew\Documents\Visual Studio 2015\Projects\Metanit\IdentityMvc\IdentityMvc\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Andrew\Documents\Visual Studio 2015\Projects\Metanit\IdentityMvc\IdentityMvc\bin\Microsoft.Owin.Security.dll
+C:\Users\Andrew\Documents\Visual Studio 2015\Projects\Metanit\IdentityMvc\IdentityMvc\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Andrew\Documents\Visual Studio 2015\Projects\Metanit\IdentityMvc\IdentityMvc\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Andrew\Documents\Visual Studio 2015\Projects\Metanit\IdentityMvc\IdentityMvc\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Andrew\Documents\Visual Studio 2015\Projects\Metanit\IdentityMvc\IdentityMvc\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Andrew\Documents\Visual Studio 2015\Projects\Metanit\IdentityMvc\IdentityMvc\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Andrew\Documents\Visual Studio 2015\Projects\Metanit\IdentityMvc\IdentityMvc\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Andrew\Documents\Visual Studio 2015\Projects\Metanit\IdentityMvc\IdentityMvc\bin\Newtonsoft.Json.dll
+C:\Users\Andrew\Documents\Visual Studio 2015\Projects\Metanit\IdentityMvc\IdentityMvc\bin\Owin.dll
+C:\Users\Andrew\Documents\Visual Studio 2015\Projects\Metanit\IdentityMvc\IdentityMvc\bin\System.Web.Helpers.dll
+C:\Users\Andrew\Documents\Visual Studio 2015\Projects\Metanit\IdentityMvc\IdentityMvc\bin\System.Web.Mvc.dll
+C:\Users\Andrew\Documents\Visual Studio 2015\Projects\Metanit\IdentityMvc\IdentityMvc\bin\System.Web.Optimization.dll
+C:\Users\Andrew\Documents\Visual Studio 2015\Projects\Metanit\IdentityMvc\IdentityMvc\bin\System.Web.Razor.dll
+C:\Users\Andrew\Documents\Visual Studio 2015\Projects\Metanit\IdentityMvc\IdentityMvc\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Andrew\Documents\Visual Studio 2015\Projects\Metanit\IdentityMvc\IdentityMvc\bin\System.Web.WebPages.dll
+C:\Users\Andrew\Documents\Visual Studio 2015\Projects\Metanit\IdentityMvc\IdentityMvc\bin\System.Web.WebPages.Razor.dll
+C:\Users\Andrew\Documents\Visual Studio 2015\Projects\Metanit\IdentityMvc\IdentityMvc\bin\WebGrease.dll
+C:\Users\Andrew\Documents\Visual Studio 2015\Projects\Metanit\IdentityMvc\IdentityMvc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Andrew\Documents\Visual Studio 2015\Projects\Metanit\IdentityMvc\IdentityMvc\bin\System.Web.Helpers.xml
+C:\Users\Andrew\Documents\Visual Studio 2015\Projects\Metanit\IdentityMvc\IdentityMvc\bin\System.Web.Mvc.xml
+C:\Users\Andrew\Documents\Visual Studio 2015\Projects\Metanit\IdentityMvc\IdentityMvc\bin\System.Web.Optimization.xml
+C:\Users\Andrew\Documents\Visual Studio 2015\Projects\Metanit\IdentityMvc\IdentityMvc\bin\System.Web.Razor.xml
+C:\Users\Andrew\Documents\Visual Studio 2015\Projects\Metanit\IdentityMvc\IdentityMvc\bin\System.Web.WebPages.xml
+C:\Users\Andrew\Documents\Visual Studio 2015\Projects\Metanit\IdentityMvc\IdentityMvc\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Andrew\Documents\Visual Studio 2015\Projects\Metanit\IdentityMvc\IdentityMvc\bin\System.Web.WebPages.Razor.xml
+C:\Users\Andrew\Documents\Visual Studio 2015\Projects\Metanit\IdentityMvc\IdentityMvc\bin\Antlr3.Runtime.pdb
+C:\Users\Andrew\Documents\Visual Studio 2015\Projects\Metanit\IdentityMvc\IdentityMvc\bin\Newtonsoft.Json.xml
+C:\Users\Andrew\Documents\Visual Studio 2015\Projects\Metanit\IdentityMvc\IdentityMvc\bin\EntityFramework.xml
+C:\Users\Andrew\Documents\Visual Studio 2015\Projects\Metanit\IdentityMvc\IdentityMvc\bin\EntityFramework.SqlServer.xml
+C:\Users\Andrew\Documents\Visual Studio 2015\Projects\Metanit\IdentityMvc\IdentityMvc\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Andrew\Documents\Visual Studio 2015\Projects\Metanit\IdentityMvc\IdentityMvc\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Andrew\Documents\Visual Studio 2015\Projects\Metanit\IdentityMvc\IdentityMvc\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Andrew\Documents\Visual Studio 2015\Projects\Metanit\IdentityMvc\IdentityMvc\bin\Microsoft.Owin.xml
+C:\Users\Andrew\Documents\Visual Studio 2015\Projects\Metanit\IdentityMvc\IdentityMvc\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Andrew\Documents\Visual Studio 2015\Projects\Metanit\IdentityMvc\IdentityMvc\bin\Microsoft.Owin.Security.xml
+C:\Users\Andrew\Documents\Visual Studio 2015\Projects\Metanit\IdentityMvc\IdentityMvc\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Andrew\Documents\Visual Studio 2015\Projects\Metanit\IdentityMvc\IdentityMvc\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Andrew\Documents\Visual Studio 2015\Projects\Metanit\IdentityMvc\IdentityMvc\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Andrew\Documents\Visual Studio 2015\Projects\Metanit\IdentityMvc\IdentityMvc\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Andrew\Documents\Visual Studio 2015\Projects\Metanit\IdentityMvc\IdentityMvc\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Andrew\Documents\Visual Studio 2015\Projects\Metanit\IdentityMvc\IdentityMvc\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Andrew\Documents\Visual Studio 2015\Projects\Metanit\IdentityMvc\IdentityMvc\obj\Debug\IdentityMvc.csprojResolveAssemblyReference.cache
+C:\Users\Andrew\Documents\Visual Studio 2015\Projects\Metanit\IdentityMvc\IdentityMvc\obj\Debug\IdentityMvc.dll
+C:\Users\Andrew\Documents\Visual Studio 2015\Projects\Metanit\IdentityMvc\IdentityMvc\obj\Debug\IdentityMvc.pdb
+F:\Разработка Web-приложений\Лекция 4\IdentityMvc\IdentityMvc\bin\roslyn\csc.exe
+F:\Разработка Web-приложений\Лекция 4\IdentityMvc\IdentityMvc\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Разработка Web-приложений\Лекция 4\IdentityMvc\IdentityMvc\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Разработка Web-приложений\Лекция 4\IdentityMvc\IdentityMvc\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Разработка Web-приложений\Лекция 4\IdentityMvc\IdentityMvc\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Разработка Web-приложений\Лекция 4\IdentityMvc\IdentityMvc\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Разработка Web-приложений\Лекция 4\IdentityMvc\IdentityMvc\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Разработка Web-приложений\Лекция 4\IdentityMvc\IdentityMvc\bin\roslyn\System.Collections.Immutable.dll
+F:\Разработка Web-приложений\Лекция 4\IdentityMvc\IdentityMvc\bin\roslyn\System.Reflection.Metadata.dll
+F:\Разработка Web-приложений\Лекция 4\IdentityMvc\IdentityMvc\bin\roslyn\vbc.exe
+F:\Разработка Web-приложений\Лекция 4\IdentityMvc\IdentityMvc\bin\roslyn\VBCSCompiler.exe
+F:\Разработка Web-приложений\Лекция 4\IdentityMvc\IdentityMvc\bin\roslyn\VBCSCompiler.exe.config
+F:\Разработка Web-приложений\Лекция 4\IdentityMvc\IdentityMvc\bin\IdentityMvc.dll.config
+F:\Разработка Web-приложений\Лекция 4\IdentityMvc\IdentityMvc\bin\IdentityMvc.dll
+F:\Разработка Web-приложений\Лекция 4\IdentityMvc\IdentityMvc\bin\IdentityMvc.pdb
+F:\Разработка Web-приложений\Лекция 4\IdentityMvc\IdentityMvc\bin\Antlr3.Runtime.dll
+F:\Разработка Web-приложений\Лекция 4\IdentityMvc\IdentityMvc\bin\EntityFramework.dll
+F:\Разработка Web-приложений\Лекция 4\IdentityMvc\IdentityMvc\bin\EntityFramework.SqlServer.dll
+F:\Разработка Web-приложений\Лекция 4\IdentityMvc\IdentityMvc\bin\Microsoft.AspNet.Identity.Core.dll
+F:\Разработка Web-приложений\Лекция 4\IdentityMvc\IdentityMvc\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\Разработка Web-приложений\Лекция 4\IdentityMvc\IdentityMvc\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\Разработка Web-приложений\Лекция 4\IdentityMvc\IdentityMvc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Разработка Web-приложений\Лекция 4\IdentityMvc\IdentityMvc\bin\Microsoft.Owin.dll
+F:\Разработка Web-приложений\Лекция 4\IdentityMvc\IdentityMvc\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\Разработка Web-приложений\Лекция 4\IdentityMvc\IdentityMvc\bin\Microsoft.Owin.Security.Cookies.dll
+F:\Разработка Web-приложений\Лекция 4\IdentityMvc\IdentityMvc\bin\Microsoft.Owin.Security.dll
+F:\Разработка Web-приложений\Лекция 4\IdentityMvc\IdentityMvc\bin\Microsoft.Owin.Security.Facebook.dll
+F:\Разработка Web-приложений\Лекция 4\IdentityMvc\IdentityMvc\bin\Microsoft.Owin.Security.Google.dll
+F:\Разработка Web-приложений\Лекция 4\IdentityMvc\IdentityMvc\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\Разработка Web-приложений\Лекция 4\IdentityMvc\IdentityMvc\bin\Microsoft.Owin.Security.OAuth.dll
+F:\Разработка Web-приложений\Лекция 4\IdentityMvc\IdentityMvc\bin\Microsoft.Owin.Security.Twitter.dll
+F:\Разработка Web-приложений\Лекция 4\IdentityMvc\IdentityMvc\bin\Microsoft.Web.Infrastructure.dll
+F:\Разработка Web-приложений\Лекция 4\IdentityMvc\IdentityMvc\bin\Newtonsoft.Json.dll
+F:\Разработка Web-приложений\Лекция 4\IdentityMvc\IdentityMvc\bin\Owin.dll
+F:\Разработка Web-приложений\Лекция 4\IdentityMvc\IdentityMvc\bin\System.Web.Helpers.dll
+F:\Разработка Web-приложений\Лекция 4\IdentityMvc\IdentityMvc\bin\System.Web.Mvc.dll
+F:\Разработка Web-приложений\Лекция 4\IdentityMvc\IdentityMvc\bin\System.Web.Optimization.dll
+F:\Разработка Web-приложений\Лекция 4\IdentityMvc\IdentityMvc\bin\System.Web.Razor.dll
+F:\Разработка Web-приложений\Лекция 4\IdentityMvc\IdentityMvc\bin\System.Web.WebPages.Deployment.dll
+F:\Разработка Web-приложений\Лекция 4\IdentityMvc\IdentityMvc\bin\System.Web.WebPages.dll
+F:\Разработка Web-приложений\Лекция 4\IdentityMvc\IdentityMvc\bin\System.Web.WebPages.Razor.dll
+F:\Разработка Web-приложений\Лекция 4\IdentityMvc\IdentityMvc\bin\WebGrease.dll
+F:\Разработка Web-приложений\Лекция 4\IdentityMvc\IdentityMvc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Разработка Web-приложений\Лекция 4\IdentityMvc\IdentityMvc\bin\System.Web.Helpers.xml
+F:\Разработка Web-приложений\Лекция 4\IdentityMvc\IdentityMvc\bin\System.Web.Mvc.xml
+F:\Разработка Web-приложений\Лекция 4\IdentityMvc\IdentityMvc\bin\System.Web.Optimization.xml
+F:\Разработка Web-приложений\Лекция 4\IdentityMvc\IdentityMvc\bin\System.Web.Razor.xml
+F:\Разработка Web-приложений\Лекция 4\IdentityMvc\IdentityMvc\bin\System.Web.WebPages.xml
+F:\Разработка Web-приложений\Лекция 4\IdentityMvc\IdentityMvc\bin\System.Web.WebPages.Deployment.xml
+F:\Разработка Web-приложений\Лекция 4\IdentityMvc\IdentityMvc\bin\System.Web.WebPages.Razor.xml
+F:\Разработка Web-приложений\Лекция 4\IdentityMvc\IdentityMvc\bin\Antlr3.Runtime.pdb
+F:\Разработка Web-приложений\Лекция 4\IdentityMvc\IdentityMvc\bin\Newtonsoft.Json.xml
+F:\Разработка Web-приложений\Лекция 4\IdentityMvc\IdentityMvc\bin\EntityFramework.xml
+F:\Разработка Web-приложений\Лекция 4\IdentityMvc\IdentityMvc\bin\EntityFramework.SqlServer.xml
+F:\Разработка Web-приложений\Лекция 4\IdentityMvc\IdentityMvc\bin\Microsoft.AspNet.Identity.Core.xml
+F:\Разработка Web-приложений\Лекция 4\IdentityMvc\IdentityMvc\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\Разработка Web-приложений\Лекция 4\IdentityMvc\IdentityMvc\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\Разработка Web-приложений\Лекция 4\IdentityMvc\IdentityMvc\bin\Microsoft.Owin.xml
+F:\Разработка Web-приложений\Лекция 4\IdentityMvc\IdentityMvc\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\Разработка Web-приложений\Лекция 4\IdentityMvc\IdentityMvc\bin\Microsoft.Owin.Security.xml
+F:\Разработка Web-приложений\Лекция 4\IdentityMvc\IdentityMvc\bin\Microsoft.Owin.Security.Facebook.xml
+F:\Разработка Web-приложений\Лекция 4\IdentityMvc\IdentityMvc\bin\Microsoft.Owin.Security.Cookies.xml
+F:\Разработка Web-приложений\Лекция 4\IdentityMvc\IdentityMvc\bin\Microsoft.Owin.Security.OAuth.xml
+F:\Разработка Web-приложений\Лекция 4\IdentityMvc\IdentityMvc\bin\Microsoft.Owin.Security.Google.xml
+F:\Разработка Web-приложений\Лекция 4\IdentityMvc\IdentityMvc\bin\Microsoft.Owin.Security.Twitter.xml
+F:\Разработка Web-приложений\Лекция 4\IdentityMvc\IdentityMvc\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\Разработка Web-приложений\Лекция 4\IdentityMvc\IdentityMvc\obj\Debug\IdentityMvc.csprojResolveAssemblyReference.cache
+F:\Разработка Web-приложений\Лекция 4\IdentityMvc\IdentityMvc\obj\Debug\IdentityMvc.dll
+F:\Разработка Web-приложений\Лекция 4\IdentityMvc\IdentityMvc\obj\Debug\IdentityMvc.pdb
+E:\Разработка Web-приложений\Лекция\Лекция 4\IdentityMvc\IdentityMvc\bin\roslyn\csc.exe
+E:\Разработка Web-приложений\Лекция\Лекция 4\IdentityMvc\IdentityMvc\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Разработка Web-приложений\Лекция\Лекция 4\IdentityMvc\IdentityMvc\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Разработка Web-приложений\Лекция\Лекция 4\IdentityMvc\IdentityMvc\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Разработка Web-приложений\Лекция\Лекция 4\IdentityMvc\IdentityMvc\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Разработка Web-приложений\Лекция\Лекция 4\IdentityMvc\IdentityMvc\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Разработка Web-приложений\Лекция\Лекция 4\IdentityMvc\IdentityMvc\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Разработка Web-приложений\Лекция\Лекция 4\IdentityMvc\IdentityMvc\bin\roslyn\System.Collections.Immutable.dll
+E:\Разработка Web-приложений\Лекция\Лекция 4\IdentityMvc\IdentityMvc\bin\roslyn\System.Reflection.Metadata.dll
+E:\Разработка Web-приложений\Лекция\Лекция 4\IdentityMvc\IdentityMvc\bin\roslyn\vbc.exe
+E:\Разработка Web-приложений\Лекция\Лекция 4\IdentityMvc\IdentityMvc\bin\roslyn\VBCSCompiler.exe
+E:\Разработка Web-приложений\Лекция\Лекция 4\IdentityMvc\IdentityMvc\bin\roslyn\VBCSCompiler.exe.config
+E:\Разработка Web-приложений\Лекция\Лекция 4\IdentityMvc\IdentityMvc\bin\IdentityMvc.dll.config
+E:\Разработка Web-приложений\Лекция\Лекция 4\IdentityMvc\IdentityMvc\bin\IdentityMvc.dll
+E:\Разработка Web-приложений\Лекция\Лекция 4\IdentityMvc\IdentityMvc\bin\IdentityMvc.pdb
+E:\Разработка Web-приложений\Лекция\Лекция 4\IdentityMvc\IdentityMvc\bin\Antlr3.Runtime.dll
+E:\Разработка Web-приложений\Лекция\Лекция 4\IdentityMvc\IdentityMvc\bin\EntityFramework.dll
+E:\Разработка Web-приложений\Лекция\Лекция 4\IdentityMvc\IdentityMvc\bin\EntityFramework.SqlServer.dll
+E:\Разработка Web-приложений\Лекция\Лекция 4\IdentityMvc\IdentityMvc\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Разработка Web-приложений\Лекция\Лекция 4\IdentityMvc\IdentityMvc\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Разработка Web-приложений\Лекция\Лекция 4\IdentityMvc\IdentityMvc\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Разработка Web-приложений\Лекция\Лекция 4\IdentityMvc\IdentityMvc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Разработка Web-приложений\Лекция\Лекция 4\IdentityMvc\IdentityMvc\bin\Microsoft.Owin.dll
+E:\Разработка Web-приложений\Лекция\Лекция 4\IdentityMvc\IdentityMvc\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Разработка Web-приложений\Лекция\Лекция 4\IdentityMvc\IdentityMvc\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Разработка Web-приложений\Лекция\Лекция 4\IdentityMvc\IdentityMvc\bin\Microsoft.Owin.Security.dll
+E:\Разработка Web-приложений\Лекция\Лекция 4\IdentityMvc\IdentityMvc\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Разработка Web-приложений\Лекция\Лекция 4\IdentityMvc\IdentityMvc\bin\Microsoft.Owin.Security.Google.dll
+E:\Разработка Web-приложений\Лекция\Лекция 4\IdentityMvc\IdentityMvc\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Разработка Web-приложений\Лекция\Лекция 4\IdentityMvc\IdentityMvc\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Разработка Web-приложений\Лекция\Лекция 4\IdentityMvc\IdentityMvc\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Разработка Web-приложений\Лекция\Лекция 4\IdentityMvc\IdentityMvc\bin\Microsoft.Web.Infrastructure.dll
+E:\Разработка Web-приложений\Лекция\Лекция 4\IdentityMvc\IdentityMvc\bin\Newtonsoft.Json.dll
+E:\Разработка Web-приложений\Лекция\Лекция 4\IdentityMvc\IdentityMvc\bin\Owin.dll
+E:\Разработка Web-приложений\Лекция\Лекция 4\IdentityMvc\IdentityMvc\bin\System.Web.Helpers.dll
+E:\Разработка Web-приложений\Лекция\Лекция 4\IdentityMvc\IdentityMvc\bin\System.Web.Mvc.dll
+E:\Разработка Web-приложений\Лекция\Лекция 4\IdentityMvc\IdentityMvc\bin\System.Web.Optimization.dll
+E:\Разработка Web-приложений\Лекция\Лекция 4\IdentityMvc\IdentityMvc\bin\System.Web.Razor.dll
+E:\Разработка Web-приложений\Лекция\Лекция 4\IdentityMvc\IdentityMvc\bin\System.Web.WebPages.Deployment.dll
+E:\Разработка Web-приложений\Лекция\Лекция 4\IdentityMvc\IdentityMvc\bin\System.Web.WebPages.dll
+E:\Разработка Web-приложений\Лекция\Лекция 4\IdentityMvc\IdentityMvc\bin\System.Web.WebPages.Razor.dll
+E:\Разработка Web-приложений\Лекция\Лекция 4\IdentityMvc\IdentityMvc\bin\WebGrease.dll
+E:\Разработка Web-приложений\Лекция\Лекция 4\IdentityMvc\IdentityMvc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Разработка Web-приложений\Лекция\Лекция 4\IdentityMvc\IdentityMvc\bin\System.Web.Helpers.xml
+E:\Разработка Web-приложений\Лекция\Лекция 4\IdentityMvc\IdentityMvc\bin\System.Web.Mvc.xml
+E:\Разработка Web-приложений\Лекция\Лекция 4\IdentityMvc\IdentityMvc\bin\System.Web.Optimization.xml
+E:\Разработка Web-приложений\Лекция\Лекция 4\IdentityMvc\IdentityMvc\bin\System.Web.Razor.xml
+E:\Разработка Web-приложений\Лекция\Лекция 4\IdentityMvc\IdentityMvc\bin\System.Web.WebPages.xml
+E:\Разработка Web-приложений\Лекция\Лекция 4\IdentityMvc\IdentityMvc\bin\System.Web.WebPages.Deployment.xml
+E:\Разработка Web-приложений\Лекция\Лекция 4\IdentityMvc\IdentityMvc\bin\System.Web.WebPages.Razor.xml
+E:\Разработка Web-приложений\Лекция\Лекция 4\IdentityMvc\IdentityMvc\bin\Antlr3.Runtime.pdb
+E:\Разработка Web-приложений\Лекция\Лекция 4\IdentityMvc\IdentityMvc\bin\Newtonsoft.Json.xml
+E:\Разработка Web-приложений\Лекция\Лекция 4\IdentityMvc\IdentityMvc\bin\EntityFramework.xml
+E:\Разработка Web-приложений\Лекция\Лекция 4\IdentityMvc\IdentityMvc\bin\EntityFramework.SqlServer.xml
+E:\Разработка Web-приложений\Лекция\Лекция 4\IdentityMvc\IdentityMvc\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Разработка Web-приложений\Лекция\Лекция 4\IdentityMvc\IdentityMvc\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Разработка Web-приложений\Лекция\Лекция 4\IdentityMvc\IdentityMvc\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Разработка Web-приложений\Лекция\Лекция 4\IdentityMvc\IdentityMvc\bin\Microsoft.Owin.xml
+E:\Разработка Web-приложений\Лекция\Лекция 4\IdentityMvc\IdentityMvc\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Разработка Web-приложений\Лекция\Лекция 4\IdentityMvc\IdentityMvc\bin\Microsoft.Owin.Security.xml
+E:\Разработка Web-приложений\Лекция\Лекция 4\IdentityMvc\IdentityMvc\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Разработка Web-приложений\Лекция\Лекция 4\IdentityMvc\IdentityMvc\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Разработка Web-приложений\Лекция\Лекция 4\IdentityMvc\IdentityMvc\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Разработка Web-приложений\Лекция\Лекция 4\IdentityMvc\IdentityMvc\bin\Microsoft.Owin.Security.Google.xml
+E:\Разработка Web-приложений\Лекция\Лекция 4\IdentityMvc\IdentityMvc\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Разработка Web-приложений\Лекция\Лекция 4\IdentityMvc\IdentityMvc\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Разработка Web-приложений\Лекция\Лекция 4\IdentityMvc\IdentityMvc\obj\Debug\IdentityMvc.csprojResolveAssemblyReference.cache
+E:\Разработка Web-приложений\Лекция\Лекция 4\IdentityMvc\IdentityMvc\obj\Debug\IdentityMvc.dll
+E:\Разработка Web-приложений\Лекция\Лекция 4\IdentityMvc\IdentityMvc\obj\Debug\IdentityMvc.pdb
+E:\Сессия зима 2017\Разработка веб приложений\7ой семестр\Лекция 4\IdentityMvc\IdentityMvc\bin\roslyn\csc.exe
+E:\Сессия зима 2017\Разработка веб приложений\7ой семестр\Лекция 4\IdentityMvc\IdentityMvc\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Сессия зима 2017\Разработка веб приложений\7ой семестр\Лекция 4\IdentityMvc\IdentityMvc\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Сессия зима 2017\Разработка веб приложений\7ой семестр\Лекция 4\IdentityMvc\IdentityMvc\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Сессия зима 2017\Разработка веб приложений\7ой семестр\Лекция 4\IdentityMvc\IdentityMvc\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Сессия зима 2017\Разработка веб приложений\7ой семестр\Лекция 4\IdentityMvc\IdentityMvc\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Сессия зима 2017\Разработка веб приложений\7ой семестр\Лекция 4\IdentityMvc\IdentityMvc\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Сессия зима 2017\Разработка веб приложений\7ой семестр\Лекция 4\IdentityMvc\IdentityMvc\bin\roslyn\System.Collections.Immutable.dll
+E:\Сессия зима 2017\Разработка веб приложений\7ой семестр\Лекция 4\IdentityMvc\IdentityMvc\bin\roslyn\System.Reflection.Metadata.dll
+E:\Сессия зима 2017\Разработка веб приложений\7ой семестр\Лекция 4\IdentityMvc\IdentityMvc\bin\roslyn\vbc.exe
+E:\Сессия зима 2017\Разработка веб приложений\7ой семестр\Лекция 4\IdentityMvc\IdentityMvc\bin\roslyn\VBCSCompiler.exe
+E:\Сессия зима 2017\Разработка веб приложений\7ой семестр\Лекция 4\IdentityMvc\IdentityMvc\bin\roslyn\VBCSCompiler.exe.config
+E:\Сессия зима 2017\Разработка веб приложений\7ой семестр\Лекция 4\IdentityMvc\IdentityMvc\bin\IdentityMvc.dll.config
+E:\Сессия зима 2017\Разработка веб приложений\7ой семестр\Лекция 4\IdentityMvc\IdentityMvc\bin\IdentityMvc.dll
+E:\Сессия зима 2017\Разработка веб приложений\7ой семестр\Лекция 4\IdentityMvc\IdentityMvc\bin\IdentityMvc.pdb
+E:\Сессия зима 2017\Разработка веб приложений\7ой семестр\Лекция 4\IdentityMvc\IdentityMvc\bin\Antlr3.Runtime.dll
+E:\Сессия зима 2017\Разработка веб приложений\7ой семестр\Лекция 4\IdentityMvc\IdentityMvc\bin\EntityFramework.dll
+E:\Сессия зима 2017\Разработка веб приложений\7ой семестр\Лекция 4\IdentityMvc\IdentityMvc\bin\EntityFramework.SqlServer.dll
+E:\Сессия зима 2017\Разработка веб приложений\7ой семестр\Лекция 4\IdentityMvc\IdentityMvc\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Сессия зима 2017\Разработка веб приложений\7ой семестр\Лекция 4\IdentityMvc\IdentityMvc\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Сессия зима 2017\Разработка веб приложений\7ой семестр\Лекция 4\IdentityMvc\IdentityMvc\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Сессия зима 2017\Разработка веб приложений\7ой семестр\Лекция 4\IdentityMvc\IdentityMvc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Сессия зима 2017\Разработка веб приложений\7ой семестр\Лекция 4\IdentityMvc\IdentityMvc\bin\Microsoft.Owin.dll
+E:\Сессия зима 2017\Разработка веб приложений\7ой семестр\Лекция 4\IdentityMvc\IdentityMvc\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Сессия зима 2017\Разработка веб приложений\7ой семестр\Лекция 4\IdentityMvc\IdentityMvc\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Сессия зима 2017\Разработка веб приложений\7ой семестр\Лекция 4\IdentityMvc\IdentityMvc\bin\Microsoft.Owin.Security.dll
+E:\Сессия зима 2017\Разработка веб приложений\7ой семестр\Лекция 4\IdentityMvc\IdentityMvc\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Сессия зима 2017\Разработка веб приложений\7ой семестр\Лекция 4\IdentityMvc\IdentityMvc\bin\Microsoft.Owin.Security.Google.dll
+E:\Сессия зима 2017\Разработка веб приложений\7ой семестр\Лекция 4\IdentityMvc\IdentityMvc\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Сессия зима 2017\Разработка веб приложений\7ой семестр\Лекция 4\IdentityMvc\IdentityMvc\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Сессия зима 2017\Разработка веб приложений\7ой семестр\Лекция 4\IdentityMvc\IdentityMvc\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Сессия зима 2017\Разработка веб приложений\7ой семестр\Лекция 4\IdentityMvc\IdentityMvc\bin\Microsoft.Web.Infrastructure.dll
+E:\Сессия зима 2017\Разработка веб приложений\7ой семестр\Лекция 4\IdentityMvc\IdentityMvc\bin\Newtonsoft.Json.dll
+E:\Сессия зима 2017\Разработка веб приложений\7ой семестр\Лекция 4\IdentityMvc\IdentityMvc\bin\Owin.dll
+E:\Сессия зима 2017\Разработка веб приложений\7ой семестр\Лекция 4\IdentityMvc\IdentityMvc\bin\System.Web.Helpers.dll
+E:\Сессия зима 2017\Разработка веб приложений\7ой семестр\Лекция 4\IdentityMvc\IdentityMvc\bin\System.Web.Mvc.dll
+E:\Сессия зима 2017\Разработка веб приложений\7ой семестр\Лекция 4\IdentityMvc\IdentityMvc\bin\System.Web.Optimization.dll
+E:\Сессия зима 2017\Разработка веб приложений\7ой семестр\Лекция 4\IdentityMvc\IdentityMvc\bin\System.Web.Razor.dll
+E:\Сессия зима 2017\Разработка веб приложений\7ой семестр\Лекция 4\IdentityMvc\IdentityMvc\bin\System.Web.WebPages.Deployment.dll
+E:\Сессия зима 2017\Разработка веб приложений\7ой семестр\Лекция 4\IdentityMvc\IdentityMvc\bin\System.Web.WebPages.dll
+E:\Сессия зима 2017\Разработка веб приложений\7ой семестр\Лекция 4\IdentityMvc\IdentityMvc\bin\System.Web.WebPages.Razor.dll
+E:\Сессия зима 2017\Разработка веб приложений\7ой семестр\Лекция 4\IdentityMvc\IdentityMvc\bin\WebGrease.dll
+E:\Сессия зима 2017\Разработка веб приложений\7ой семестр\Лекция 4\IdentityMvc\IdentityMvc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Сессия зима 2017\Разработка веб приложений\7ой семестр\Лекция 4\IdentityMvc\IdentityMvc\bin\System.Web.Helpers.xml
+E:\Сессия зима 2017\Разработка веб приложений\7ой семестр\Лекция 4\IdentityMvc\IdentityMvc\bin\System.Web.Mvc.xml
+E:\Сессия зима 2017\Разработка веб приложений\7ой семестр\Лекция 4\IdentityMvc\IdentityMvc\bin\System.Web.Optimization.xml
+E:\Сессия зима 2017\Разработка веб приложений\7ой семестр\Лекция 4\IdentityMvc\IdentityMvc\bin\System.Web.Razor.xml
+E:\Сессия зима 2017\Разработка веб приложений\7ой семестр\Лекция 4\IdentityMvc\IdentityMvc\bin\System.Web.WebPages.xml
+E:\Сессия зима 2017\Разработка веб приложений\7ой семестр\Лекция 4\IdentityMvc\IdentityMvc\bin\System.Web.WebPages.Deployment.xml
+E:\Сессия зима 2017\Разработка веб приложений\7ой семестр\Лекция 4\IdentityMvc\IdentityMvc\bin\System.Web.WebPages.Razor.xml
+E:\Сессия зима 2017\Разработка веб приложений\7ой семестр\Лекция 4\IdentityMvc\IdentityMvc\bin\Antlr3.Runtime.pdb
+E:\Сессия зима 2017\Разработка веб приложений\7ой семестр\Лекция 4\IdentityMvc\IdentityMvc\bin\Newtonsoft.Json.xml
+E:\Сессия зима 2017\Разработка веб приложений\7ой семестр\Лекция 4\IdentityMvc\IdentityMvc\bin\EntityFramework.xml
+E:\Сессия зима 2017\Разработка веб приложений\7ой семестр\Лекция 4\IdentityMvc\IdentityMvc\bin\EntityFramework.SqlServer.xml
+E:\Сессия зима 2017\Разработка веб приложений\7ой семестр\Лекция 4\IdentityMvc\IdentityMvc\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Сессия зима 2017\Разработка веб приложений\7ой семестр\Лекция 4\IdentityMvc\IdentityMvc\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Сессия зима 2017\Разработка веб приложений\7ой семестр\Лекция 4\IdentityMvc\IdentityMvc\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Сессия зима 2017\Разработка веб приложений\7ой семестр\Лекция 4\IdentityMvc\IdentityMvc\bin\Microsoft.Owin.xml
+E:\Сессия зима 2017\Разработка веб приложений\7ой семестр\Лекция 4\IdentityMvc\IdentityMvc\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Сессия зима 2017\Разработка веб приложений\7ой семестр\Лекция 4\IdentityMvc\IdentityMvc\bin\Microsoft.Owin.Security.xml
+E:\Сессия зима 2017\Разработка веб приложений\7ой семестр\Лекция 4\IdentityMvc\IdentityMvc\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Сессия зима 2017\Разработка веб приложений\7ой семестр\Лекция 4\IdentityMvc\IdentityMvc\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Сессия зима 2017\Разработка веб приложений\7ой семестр\Лекция 4\IdentityMvc\IdentityMvc\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Сессия зима 2017\Разработка веб приложений\7ой семестр\Лекция 4\IdentityMvc\IdentityMvc\bin\Microsoft.Owin.Security.Google.xml
+E:\Сессия зима 2017\Разработка веб приложений\7ой семестр\Лекция 4\IdentityMvc\IdentityMvc\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Сессия зима 2017\Разработка веб приложений\7ой семестр\Лекция 4\IdentityMvc\IdentityMvc\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Сессия зима 2017\Разработка веб приложений\7ой семестр\Лекция 4\IdentityMvc\IdentityMvc\obj\Debug\IdentityMvc.dll
+E:\Сессия зима 2017\Разработка веб приложений\7ой семестр\Лекция 4\IdentityMvc\IdentityMvc\obj\Debug\IdentityMvc.pdb
+E:\Сессия зима 2017\Разработка веб приложений\7ой семестр\Лекция 4\IdentityMvc\IdentityMvc\obj\Debug\IdentityMvc.csprojResolveAssemblyReference.cache
+H:\Сессия зима 2017\Разработка веб приложений\7ой семестр\Лекция 4\IdentityMvc\IdentityMvc\obj\Debug\IdentityMvc.dll
+H:\Сессия зима 2017\Разработка веб приложений\7ой семестр\Лекция 4\IdentityMvc\IdentityMvc\obj\Debug\IdentityMvc.pdb
+H:\Сессия зима 2017\Разработка веб приложений\7ой семестр\Лекция 4\IdentityMvc\IdentityMvc\bin\roslyn\csc.exe
+H:\Сессия зима 2017\Разработка веб приложений\7ой семестр\Лекция 4\IdentityMvc\IdentityMvc\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+H:\Сессия зима 2017\Разработка веб приложений\7ой семестр\Лекция 4\IdentityMvc\IdentityMvc\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+H:\Сессия зима 2017\Разработка веб приложений\7ой семестр\Лекция 4\IdentityMvc\IdentityMvc\bin\roslyn\Microsoft.CodeAnalysis.dll
+H:\Сессия зима 2017\Разработка веб приложений\7ой семестр\Лекция 4\IdentityMvc\IdentityMvc\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\Сессия зима 2017\Разработка веб приложений\7ой семестр\Лекция 4\IdentityMvc\IdentityMvc\bin\roslyn\Microsoft.CSharp.Core.targets
+H:\Сессия зима 2017\Разработка веб приложений\7ой семестр\Лекция 4\IdentityMvc\IdentityMvc\bin\roslyn\Microsoft.VisualBasic.Core.targets
+H:\Сессия зима 2017\Разработка веб приложений\7ой семестр\Лекция 4\IdentityMvc\IdentityMvc\bin\roslyn\System.Collections.Immutable.dll
+H:\Сессия зима 2017\Разработка веб приложений\7ой семестр\Лекция 4\IdentityMvc\IdentityMvc\bin\roslyn\System.Reflection.Metadata.dll
+H:\Сессия зима 2017\Разработка веб приложений\7ой семестр\Лекция 4\IdentityMvc\IdentityMvc\bin\roslyn\vbc.exe
+H:\Сессия зима 2017\Разработка веб приложений\7ой семестр\Лекция 4\IdentityMvc\IdentityMvc\bin\roslyn\VBCSCompiler.exe
+H:\Сессия зима 2017\Разработка веб приложений\7ой семестр\Лекция 4\IdentityMvc\IdentityMvc\bin\roslyn\VBCSCompiler.exe.config
+H:\Сессия зима 2017\Разработка веб приложений\7ой семестр\Лекция 4\IdentityMvc\IdentityMvc\bin\IdentityMvc.dll.config
+H:\Сессия зима 2017\Разработка веб приложений\7ой семестр\Лекция 4\IdentityMvc\IdentityMvc\bin\IdentityMvc.dll
+H:\Сессия зима 2017\Разработка веб приложений\7ой семестр\Лекция 4\IdentityMvc\IdentityMvc\bin\IdentityMvc.pdb
+H:\Сессия зима 2017\Разработка веб приложений\7ой семестр\Лекция 4\IdentityMvc\IdentityMvc\bin\Antlr3.Runtime.dll
+H:\Сессия зима 2017\Разработка веб приложений\7ой семестр\Лекция 4\IdentityMvc\IdentityMvc\bin\EntityFramework.dll
+H:\Сессия зима 2017\Разработка веб приложений\7ой семестр\Лекция 4\IdentityMvc\IdentityMvc\bin\EntityFramework.SqlServer.dll
+H:\Сессия зима 2017\Разработка веб приложений\7ой семестр\Лекция 4\IdentityMvc\IdentityMvc\bin\Microsoft.AspNet.Identity.Core.dll
+H:\Сессия зима 2017\Разработка веб приложений\7ой семестр\Лекция 4\IdentityMvc\IdentityMvc\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+H:\Сессия зима 2017\Разработка веб приложений\7ой семестр\Лекция 4\IdentityMvc\IdentityMvc\bin\Microsoft.AspNet.Identity.Owin.dll
+H:\Сессия зима 2017\Разработка веб приложений\7ой семестр\Лекция 4\IdentityMvc\IdentityMvc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+H:\Сессия зима 2017\Разработка веб приложений\7ой семестр\Лекция 4\IdentityMvc\IdentityMvc\bin\Microsoft.Owin.dll
+H:\Сессия зима 2017\Разработка веб приложений\7ой семестр\Лекция 4\IdentityMvc\IdentityMvc\bin\Microsoft.Owin.Host.SystemWeb.dll
+H:\Сессия зима 2017\Разработка веб приложений\7ой семестр\Лекция 4\IdentityMvc\IdentityMvc\bin\Microsoft.Owin.Security.Cookies.dll
+H:\Сессия зима 2017\Разработка веб приложений\7ой семестр\Лекция 4\IdentityMvc\IdentityMvc\bin\Microsoft.Owin.Security.dll
+H:\Сессия зима 2017\Разработка веб приложений\7ой семестр\Лекция 4\IdentityMvc\IdentityMvc\bin\Microsoft.Owin.Security.Facebook.dll
+H:\Сессия зима 2017\Разработка веб приложений\7ой семестр\Лекция 4\IdentityMvc\IdentityMvc\bin\Microsoft.Owin.Security.Google.dll
+H:\Сессия зима 2017\Разработка веб приложений\7ой семестр\Лекция 4\IdentityMvc\IdentityMvc\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+H:\Сессия зима 2017\Разработка веб приложений\7ой семестр\Лекция 4\IdentityMvc\IdentityMvc\bin\Microsoft.Owin.Security.OAuth.dll
+H:\Сессия зима 2017\Разработка веб приложений\7ой семестр\Лекция 4\IdentityMvc\IdentityMvc\bin\Microsoft.Owin.Security.Twitter.dll
+H:\Сессия зима 2017\Разработка веб приложений\7ой семестр\Лекция 4\IdentityMvc\IdentityMvc\bin\Microsoft.Web.Infrastructure.dll
+H:\Сессия зима 2017\Разработка веб приложений\7ой семестр\Лекция 4\IdentityMvc\IdentityMvc\bin\Newtonsoft.Json.dll
+H:\Сессия зима 2017\Разработка веб приложений\7ой семестр\Лекция 4\IdentityMvc\IdentityMvc\bin\Owin.dll
+H:\Сессия зима 2017\Разработка веб приложений\7ой семестр\Лекция 4\IdentityMvc\IdentityMvc\bin\System.Web.Helpers.dll
+H:\Сессия зима 2017\Разработка веб приложений\7ой семестр\Лекция 4\IdentityMvc\IdentityMvc\bin\System.Web.Mvc.dll
+H:\Сессия зима 2017\Разработка веб приложений\7ой семестр\Лекция 4\IdentityMvc\IdentityMvc\bin\System.Web.Optimization.dll
+H:\Сессия зима 2017\Разработка веб приложений\7ой семестр\Лекция 4\IdentityMvc\IdentityMvc\bin\System.Web.Razor.dll
+H:\Сессия зима 2017\Разработка веб приложений\7ой семестр\Лекция 4\IdentityMvc\IdentityMvc\bin\System.Web.WebPages.Deployment.dll
+H:\Сессия зима 2017\Разработка веб приложений\7ой семестр\Лекция 4\IdentityMvc\IdentityMvc\bin\System.Web.WebPages.dll
+H:\Сессия зима 2017\Разработка веб приложений\7ой семестр\Лекция 4\IdentityMvc\IdentityMvc\bin\System.Web.WebPages.Razor.dll
+H:\Сессия зима 2017\Разработка веб приложений\7ой семестр\Лекция 4\IdentityMvc\IdentityMvc\bin\WebGrease.dll
+H:\Сессия зима 2017\Разработка веб приложений\7ой семестр\Лекция 4\IdentityMvc\IdentityMvc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+H:\Сессия зима 2017\Разработка веб приложений\7ой семестр\Лекция 4\IdentityMvc\IdentityMvc\bin\System.Web.Helpers.xml
+H:\Сессия зима 2017\Разработка веб приложений\7ой семестр\Лекция 4\IdentityMvc\IdentityMvc\bin\System.Web.Mvc.xml
+H:\Сессия зима 2017\Разработка веб приложений\7ой семестр\Лекция 4\IdentityMvc\IdentityMvc\bin\System.Web.Optimization.xml
+H:\Сессия зима 2017\Разработка веб приложений\7ой семестр\Лекция 4\IdentityMvc\IdentityMvc\bin\System.Web.Razor.xml
+H:\Сессия зима 2017\Разработка веб приложений\7ой семестр\Лекция 4\IdentityMvc\IdentityMvc\bin\System.Web.WebPages.xml
+H:\Сессия зима 2017\Разработка веб приложений\7ой семестр\Лекция 4\IdentityMvc\IdentityMvc\bin\System.Web.WebPages.Deployment.xml
+H:\Сессия зима 2017\Разработка веб приложений\7ой семестр\Лекция 4\IdentityMvc\IdentityMvc\bin\System.Web.WebPages.Razor.xml
+H:\Сессия зима 2017\Разработка веб приложений\7ой семестр\Лекция 4\IdentityMvc\IdentityMvc\bin\Antlr3.Runtime.pdb
+H:\Сессия зима 2017\Разработка веб приложений\7ой семестр\Лекция 4\IdentityMvc\IdentityMvc\bin\Newtonsoft.Json.xml
+H:\Сессия зима 2017\Разработка веб приложений\7ой семестр\Лекция 4\IdentityMvc\IdentityMvc\bin\EntityFramework.xml
+H:\Сессия зима 2017\Разработка веб приложений\7ой семестр\Лекция 4\IdentityMvc\IdentityMvc\bin\EntityFramework.SqlServer.xml
+H:\Сессия зима 2017\Разработка веб приложений\7ой семестр\Лекция 4\IdentityMvc\IdentityMvc\bin\Microsoft.AspNet.Identity.Core.xml
+H:\Сессия зима 2017\Разработка веб приложений\7ой семестр\Лекция 4\IdentityMvc\IdentityMvc\bin\Microsoft.AspNet.Identity.Owin.xml
+H:\Сессия зима 2017\Разработка веб приложений\7ой семестр\Лекция 4\IdentityMvc\IdentityMvc\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+H:\Сессия зима 2017\Разработка веб приложений\7ой семестр\Лекция 4\IdentityMvc\IdentityMvc\bin\Microsoft.Owin.xml
+H:\Сессия зима 2017\Разработка веб приложений\7ой семестр\Лекция 4\IdentityMvc\IdentityMvc\bin\Microsoft.Owin.Host.SystemWeb.xml
+H:\Сессия зима 2017\Разработка веб приложений\7ой семестр\Лекция 4\IdentityMvc\IdentityMvc\bin\Microsoft.Owin.Security.xml
+H:\Сессия зима 2017\Разработка веб приложений\7ой семестр\Лекция 4\IdentityMvc\IdentityMvc\bin\Microsoft.Owin.Security.Facebook.xml
+H:\Сессия зима 2017\Разработка веб приложений\7ой семестр\Лекция 4\IdentityMvc\IdentityMvc\bin\Microsoft.Owin.Security.Cookies.xml
+H:\Сессия зима 2017\Разработка веб приложений\7ой семестр\Лекция 4\IdentityMvc\IdentityMvc\bin\Microsoft.Owin.Security.OAuth.xml
+H:\Сессия зима 2017\Разработка веб приложений\7ой семестр\Лекция 4\IdentityMvc\IdentityMvc\bin\Microsoft.Owin.Security.Google.xml
+H:\Сессия зима 2017\Разработка веб приложений\7ой семестр\Лекция 4\IdentityMvc\IdentityMvc\bin\Microsoft.Owin.Security.Twitter.xml
+H:\Сессия зима 2017\Разработка веб приложений\7ой семестр\Лекция 4\IdentityMvc\IdentityMvc\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+H:\Сессия зима 2017\Разработка веб приложений\7ой семестр\Лекция 4\IdentityMvc\IdentityMvc\obj\Debug\IdentityMvc.Migrations.InitialCreate.resources
+H:\Сессия зима 2017\Разработка веб приложений\7ой семестр\Лекция 4\IdentityMvc\IdentityMvc\obj\Debug\IdentityMvc.csproj.GenerateResource.Cache
+H:\Сессия зима 2017\Разработка веб приложений\7ой семестр\Лекция 4\IdentityMvc\IdentityMvc\obj\Debug\IdentityMvc.Migrations.DataMigration.resources
+H:\Сессия зима 2017\Разработка веб приложений\7ой семестр\Лекция 4\IdentityMvc\IdentityMvc\obj\Debug\IdentityMvc.csprojResolveAssemblyReference.cache
+H:\Сессия зима 2017\Разработка веб приложений\7ой семестр\Лекция 4\IdentityMvc\IdentityMvc\obj\Debug\IdentityMvc.Migrations.DataMigration1.resources
+d:\Учёба\Сессия зима 2017\Разработка веб приложений\7ой семестр\Лекция 4\IdentityMvc\IdentityMvc\bin\roslyn\csc.exe
+d:\Учёба\Сессия зима 2017\Разработка веб приложений\7ой семестр\Лекция 4\IdentityMvc\IdentityMvc\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+d:\Учёба\Сессия зима 2017\Разработка веб приложений\7ой семестр\Лекция 4\IdentityMvc\IdentityMvc\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+d:\Учёба\Сессия зима 2017\Разработка веб приложений\7ой семестр\Лекция 4\IdentityMvc\IdentityMvc\bin\roslyn\Microsoft.CodeAnalysis.dll
+d:\Учёба\Сессия зима 2017\Разработка веб приложений\7ой семестр\Лекция 4\IdentityMvc\IdentityMvc\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+d:\Учёба\Сессия зима 2017\Разработка веб приложений\7ой семестр\Лекция 4\IdentityMvc\IdentityMvc\bin\roslyn\Microsoft.CSharp.Core.targets
+d:\Учёба\Сессия зима 2017\Разработка веб приложений\7ой семестр\Лекция 4\IdentityMvc\IdentityMvc\bin\roslyn\Microsoft.VisualBasic.Core.targets
+d:\Учёба\Сессия зима 2017\Разработка веб приложений\7ой семестр\Лекция 4\IdentityMvc\IdentityMvc\bin\roslyn\System.Collections.Immutable.dll
+d:\Учёба\Сессия зима 2017\Разработка веб приложений\7ой семестр\Лекция 4\IdentityMvc\IdentityMvc\bin\roslyn\System.Reflection.Metadata.dll
+d:\Учёба\Сессия зима 2017\Разработка веб приложений\7ой семестр\Лекция 4\IdentityMvc\IdentityMvc\bin\roslyn\vbc.exe
+d:\Учёба\Сессия зима 2017\Разработка веб приложений\7ой семестр\Лекция 4\IdentityMvc\IdentityMvc\bin\roslyn\VBCSCompiler.exe
+d:\Учёба\Сессия зима 2017\Разработка веб приложений\7ой семестр\Лекция 4\IdentityMvc\IdentityMvc\bin\roslyn\VBCSCompiler.exe.config
+d:\Учёба\Сессия зима 2017\Разработка веб приложений\7ой семестр\Лекция 4\IdentityMvc\IdentityMvc\bin\IdentityMvc.dll.config
+d:\Учёба\Сессия зима 2017\Разработка веб приложений\7ой семестр\Лекция 4\IdentityMvc\IdentityMvc\bin\IdentityMvc.dll
+d:\Учёба\Сессия зима 2017\Разработка веб приложений\7ой семестр\Лекция 4\IdentityMvc\IdentityMvc\bin\IdentityMvc.pdb
+d:\Учёба\Сессия зима 2017\Разработка веб приложений\7ой семестр\Лекция 4\IdentityMvc\IdentityMvc\bin\Antlr3.Runtime.dll
+d:\Учёба\Сессия зима 2017\Разработка веб приложений\7ой семестр\Лекция 4\IdentityMvc\IdentityMvc\bin\EntityFramework.dll
+d:\Учёба\Сессия зима 2017\Разработка веб приложений\7ой семестр\Лекция 4\IdentityMvc\IdentityMvc\bin\EntityFramework.SqlServer.dll
+d:\Учёба\Сессия зима 2017\Разработка веб приложений\7ой семестр\Лекция 4\IdentityMvc\IdentityMvc\bin\Microsoft.AspNet.Identity.Core.dll
+d:\Учёба\Сессия зима 2017\Разработка веб приложений\7ой семестр\Лекция 4\IdentityMvc\IdentityMvc\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+d:\Учёба\Сессия зима 2017\Разработка веб приложений\7ой семестр\Лекция 4\IdentityMvc\IdentityMvc\bin\Microsoft.AspNet.Identity.Owin.dll
+d:\Учёба\Сессия зима 2017\Разработка веб приложений\7ой семестр\Лекция 4\IdentityMvc\IdentityMvc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+d:\Учёба\Сессия зима 2017\Разработка веб приложений\7ой семестр\Лекция 4\IdentityMvc\IdentityMvc\bin\Microsoft.Owin.dll
+d:\Учёба\Сессия зима 2017\Разработка веб приложений\7ой семестр\Лекция 4\IdentityMvc\IdentityMvc\bin\Microsoft.Owin.Host.SystemWeb.dll
+d:\Учёба\Сессия зима 2017\Разработка веб приложений\7ой семестр\Лекция 4\IdentityMvc\IdentityMvc\bin\Microsoft.Owin.Security.Cookies.dll
+d:\Учёба\Сессия зима 2017\Разработка веб приложений\7ой семестр\Лекция 4\IdentityMvc\IdentityMvc\bin\Microsoft.Owin.Security.dll
+d:\Учёба\Сессия зима 2017\Разработка веб приложений\7ой семестр\Лекция 4\IdentityMvc\IdentityMvc\bin\Microsoft.Owin.Security.Facebook.dll
+d:\Учёба\Сессия зима 2017\Разработка веб приложений\7ой семестр\Лекция 4\IdentityMvc\IdentityMvc\bin\Microsoft.Owin.Security.Google.dll
+d:\Учёба\Сессия зима 2017\Разработка веб приложений\7ой семестр\Лекция 4\IdentityMvc\IdentityMvc\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+d:\Учёба\Сессия зима 2017\Разработка веб приложений\7ой семестр\Лекция 4\IdentityMvc\IdentityMvc\bin\Microsoft.Owin.Security.OAuth.dll
+d:\Учёба\Сессия зима 2017\Разработка веб приложений\7ой семестр\Лекция 4\IdentityMvc\IdentityMvc\bin\Microsoft.Owin.Security.Twitter.dll
+d:\Учёба\Сессия зима 2017\Разработка веб приложений\7ой семестр\Лекция 4\IdentityMvc\IdentityMvc\bin\Microsoft.Web.Infrastructure.dll
+d:\Учёба\Сессия зима 2017\Разработка веб приложений\7ой семестр\Лекция 4\IdentityMvc\IdentityMvc\bin\Newtonsoft.Json.dll
+d:\Учёба\Сессия зима 2017\Разработка веб приложений\7ой семестр\Лекция 4\IdentityMvc\IdentityMvc\bin\Owin.dll
+d:\Учёба\Сессия зима 2017\Разработка веб приложений\7ой семестр\Лекция 4\IdentityMvc\IdentityMvc\bin\System.Web.Helpers.dll
+d:\Учёба\Сессия зима 2017\Разработка веб приложений\7ой семестр\Лекция 4\IdentityMvc\IdentityMvc\bin\System.Web.Mvc.dll
+d:\Учёба\Сессия зима 2017\Разработка веб приложений\7ой семестр\Лекция 4\IdentityMvc\IdentityMvc\bin\System.Web.Optimization.dll
+d:\Учёба\Сессия зима 2017\Разработка веб приложений\7ой семестр\Лекция 4\IdentityMvc\IdentityMvc\bin\System.Web.Razor.dll
+d:\Учёба\Сессия зима 2017\Разработка веб приложений\7ой семестр\Лекция 4\IdentityMvc\IdentityMvc\bin\System.Web.WebPages.Deployment.dll
+d:\Учёба\Сессия зима 2017\Разработка веб приложений\7ой семестр\Лекция 4\IdentityMvc\IdentityMvc\bin\System.Web.WebPages.dll
+d:\Учёба\Сессия зима 2017\Разработка веб приложений\7ой семестр\Лекция 4\IdentityMvc\IdentityMvc\bin\System.Web.WebPages.Razor.dll
+d:\Учёба\Сессия зима 2017\Разработка веб приложений\7ой семестр\Лекция 4\IdentityMvc\IdentityMvc\bin\WebGrease.dll
+d:\Учёба\Сессия зима 2017\Разработка веб приложений\7ой семестр\Лекция 4\IdentityMvc\IdentityMvc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+d:\Учёба\Сессия зима 2017\Разработка веб приложений\7ой семестр\Лекция 4\IdentityMvc\IdentityMvc\bin\System.Web.Helpers.xml
+d:\Учёба\Сессия зима 2017\Разработка веб приложений\7ой семестр\Лекция 4\IdentityMvc\IdentityMvc\bin\System.Web.Mvc.xml
+d:\Учёба\Сессия зима 2017\Разработка веб приложений\7ой семестр\Лекция 4\IdentityMvc\IdentityMvc\bin\System.Web.Optimization.xml
+d:\Учёба\Сессия зима 2017\Разработка веб приложений\7ой семестр\Лекция 4\IdentityMvc\IdentityMvc\bin\System.Web.Razor.xml
+d:\Учёба\Сессия зима 2017\Разработка веб приложений\7ой семестр\Лекция 4\IdentityMvc\IdentityMvc\bin\System.Web.WebPages.xml
+d:\Учёба\Сессия зима 2017\Разработка веб приложений\7ой семестр\Лекция 4\IdentityMvc\IdentityMvc\bin\System.Web.WebPages.Deployment.xml
+d:\Учёба\Сессия зима 2017\Разработка веб приложений\7ой семестр\Лекция 4\IdentityMvc\IdentityMvc\bin\System.Web.WebPages.Razor.xml
+d:\Учёба\Сессия зима 2017\Разработка веб приложений\7ой семестр\Лекция 4\IdentityMvc\IdentityMvc\bin\Antlr3.Runtime.pdb
+d:\Учёба\Сессия зима 2017\Разработка веб приложений\7ой семестр\Лекция 4\IdentityMvc\IdentityMvc\bin\Newtonsoft.Json.xml
+d:\Учёба\Сессия зима 2017\Разработка веб приложений\7ой семестр\Лекция 4\IdentityMvc\IdentityMvc\bin\EntityFramework.xml
+d:\Учёба\Сессия зима 2017\Разработка веб приложений\7ой семестр\Лекция 4\IdentityMvc\IdentityMvc\bin\EntityFramework.SqlServer.xml
+d:\Учёба\Сессия зима 2017\Разработка веб приложений\7ой семестр\Лекция 4\IdentityMvc\IdentityMvc\bin\Microsoft.AspNet.Identity.Core.xml
+d:\Учёба\Сессия зима 2017\Разработка веб приложений\7ой семестр\Лекция 4\IdentityMvc\IdentityMvc\bin\Microsoft.AspNet.Identity.Owin.xml
+d:\Учёба\Сессия зима 2017\Разработка веб приложений\7ой семестр\Лекция 4\IdentityMvc\IdentityMvc\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+d:\Учёба\Сессия зима 2017\Разработка веб приложений\7ой семестр\Лекция 4\IdentityMvc\IdentityMvc\bin\Microsoft.Owin.xml
+d:\Учёба\Сессия зима 2017\Разработка веб приложений\7ой семестр\Лекция 4\IdentityMvc\IdentityMvc\bin\Microsoft.Owin.Host.SystemWeb.xml
+d:\Учёба\Сессия зима 2017\Разработка веб приложений\7ой семестр\Лекция 4\IdentityMvc\IdentityMvc\bin\Microsoft.Owin.Security.xml
+d:\Учёба\Сессия зима 2017\Разработка веб приложений\7ой семестр\Лекция 4\IdentityMvc\IdentityMvc\bin\Microsoft.Owin.Security.Facebook.xml
+d:\Учёба\Сессия зима 2017\Разработка веб приложений\7ой семестр\Лекция 4\IdentityMvc\IdentityMvc\bin\Microsoft.Owin.Security.Cookies.xml
+d:\Учёба\Сессия зима 2017\Разработка веб приложений\7ой семестр\Лекция 4\IdentityMvc\IdentityMvc\bin\Microsoft.Owin.Security.OAuth.xml
+d:\Учёба\Сессия зима 2017\Разработка веб приложений\7ой семестр\Лекция 4\IdentityMvc\IdentityMvc\bin\Microsoft.Owin.Security.Google.xml
+d:\Учёба\Сессия зима 2017\Разработка веб приложений\7ой семестр\Лекция 4\IdentityMvc\IdentityMvc\bin\Microsoft.Owin.Security.Twitter.xml
+d:\Учёба\Сессия зима 2017\Разработка веб приложений\7ой семестр\Лекция 4\IdentityMvc\IdentityMvc\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+d:\Учёба\Сессия зима 2017\Разработка веб приложений\7ой семестр\Лекция 4\IdentityMvc\IdentityMvc\obj\Debug\IdentityMvc.Migrations.InitialCreate.resources
+d:\Учёба\Сессия зима 2017\Разработка веб приложений\7ой семестр\Лекция 4\IdentityMvc\IdentityMvc\obj\Debug\IdentityMvc.Migrations.DataMigration.resources
+d:\Учёба\Сессия зима 2017\Разработка веб приложений\7ой семестр\Лекция 4\IdentityMvc\IdentityMvc\obj\Debug\IdentityMvc.Migrations.DataMigration1.resources
+d:\Учёба\Сессия зима 2017\Разработка веб приложений\7ой семестр\Лекция 4\IdentityMvc\IdentityMvc\obj\Debug\IdentityMvc.csproj.GenerateResource.Cache
+d:\Учёба\Сессия зима 2017\Разработка веб приложений\7ой семестр\Лекция 4\IdentityMvc\IdentityMvc\obj\Debug\IdentityMvc.dll
+d:\Учёба\Сессия зима 2017\Разработка веб приложений\7ой семестр\Лекция 4\IdentityMvc\IdentityMvc\obj\Debug\IdentityMvc.pdb
+d:\Учёба\Сессия зима 2017\Разработка веб приложений\7ой семестр\Лекция 4\IdentityMvc\IdentityMvc\obj\Debug\IdentityMvc.Migrations.OrdersAndTovars.resources
+d:\Учёба\Сессия зима 2017\Разработка веб приложений\7ой семестр\Лекция 4\IdentityMvc\IdentityMvc\obj\Debug\IdentityMvc.csprojResolveAssemblyReference.cache
+d:\SaleStroi\IdentityMvc\bin\roslyn\csc.exe
+d:\SaleStroi\IdentityMvc\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+d:\SaleStroi\IdentityMvc\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+d:\SaleStroi\IdentityMvc\bin\roslyn\Microsoft.CodeAnalysis.dll
+d:\SaleStroi\IdentityMvc\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+d:\SaleStroi\IdentityMvc\bin\roslyn\Microsoft.CSharp.Core.targets
+d:\SaleStroi\IdentityMvc\bin\roslyn\Microsoft.VisualBasic.Core.targets
+d:\SaleStroi\IdentityMvc\bin\roslyn\System.Collections.Immutable.dll
+d:\SaleStroi\IdentityMvc\bin\roslyn\System.Reflection.Metadata.dll
+d:\SaleStroi\IdentityMvc\bin\roslyn\vbc.exe
+d:\SaleStroi\IdentityMvc\bin\roslyn\VBCSCompiler.exe
+d:\SaleStroi\IdentityMvc\bin\roslyn\VBCSCompiler.exe.config
+d:\SaleStroi\IdentityMvc\bin\IdentityMvc.dll.config
+d:\SaleStroi\IdentityMvc\bin\IdentityMvc.dll
+d:\SaleStroi\IdentityMvc\bin\IdentityMvc.pdb
+d:\SaleStroi\IdentityMvc\bin\Antlr3.Runtime.dll
+d:\SaleStroi\IdentityMvc\bin\EntityFramework.dll
+d:\SaleStroi\IdentityMvc\bin\EntityFramework.SqlServer.dll
+d:\SaleStroi\IdentityMvc\bin\Microsoft.AspNet.Identity.Core.dll
+d:\SaleStroi\IdentityMvc\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+d:\SaleStroi\IdentityMvc\bin\Microsoft.AspNet.Identity.Owin.dll
+d:\SaleStroi\IdentityMvc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+d:\SaleStroi\IdentityMvc\bin\Microsoft.Owin.dll
+d:\SaleStroi\IdentityMvc\bin\Microsoft.Owin.Host.SystemWeb.dll
+d:\SaleStroi\IdentityMvc\bin\Microsoft.Owin.Security.Cookies.dll
+d:\SaleStroi\IdentityMvc\bin\Microsoft.Owin.Security.dll
+d:\SaleStroi\IdentityMvc\bin\Microsoft.Owin.Security.Facebook.dll
+d:\SaleStroi\IdentityMvc\bin\Microsoft.Owin.Security.Google.dll
+d:\SaleStroi\IdentityMvc\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+d:\SaleStroi\IdentityMvc\bin\Microsoft.Owin.Security.OAuth.dll
+d:\SaleStroi\IdentityMvc\bin\Microsoft.Owin.Security.Twitter.dll
+d:\SaleStroi\IdentityMvc\bin\Microsoft.Web.Infrastructure.dll
+d:\SaleStroi\IdentityMvc\bin\Newtonsoft.Json.dll
+d:\SaleStroi\IdentityMvc\bin\Owin.dll
+d:\SaleStroi\IdentityMvc\bin\System.Web.Helpers.dll
+d:\SaleStroi\IdentityMvc\bin\System.Web.Mvc.dll
+d:\SaleStroi\IdentityMvc\bin\System.Web.Optimization.dll
+d:\SaleStroi\IdentityMvc\bin\System.Web.Razor.dll
+d:\SaleStroi\IdentityMvc\bin\System.Web.WebPages.Deployment.dll
+d:\SaleStroi\IdentityMvc\bin\System.Web.WebPages.dll
+d:\SaleStroi\IdentityMvc\bin\System.Web.WebPages.Razor.dll
+d:\SaleStroi\IdentityMvc\bin\WebGrease.dll
+d:\SaleStroi\IdentityMvc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+d:\SaleStroi\IdentityMvc\bin\System.Web.Helpers.xml
+d:\SaleStroi\IdentityMvc\bin\System.Web.Mvc.xml
+d:\SaleStroi\IdentityMvc\bin\System.Web.Optimization.xml
+d:\SaleStroi\IdentityMvc\bin\System.Web.Razor.xml
+d:\SaleStroi\IdentityMvc\bin\System.Web.WebPages.xml
+d:\SaleStroi\IdentityMvc\bin\System.Web.WebPages.Deployment.xml
+d:\SaleStroi\IdentityMvc\bin\System.Web.WebPages.Razor.xml
+d:\SaleStroi\IdentityMvc\bin\Antlr3.Runtime.pdb
+d:\SaleStroi\IdentityMvc\bin\Newtonsoft.Json.xml
+d:\SaleStroi\IdentityMvc\bin\EntityFramework.xml
+d:\SaleStroi\IdentityMvc\bin\EntityFramework.SqlServer.xml
+d:\SaleStroi\IdentityMvc\bin\Microsoft.AspNet.Identity.Core.xml
+d:\SaleStroi\IdentityMvc\bin\Microsoft.AspNet.Identity.Owin.xml
+d:\SaleStroi\IdentityMvc\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+d:\SaleStroi\IdentityMvc\bin\Microsoft.Owin.xml
+d:\SaleStroi\IdentityMvc\bin\Microsoft.Owin.Host.SystemWeb.xml
+d:\SaleStroi\IdentityMvc\bin\Microsoft.Owin.Security.xml
+d:\SaleStroi\IdentityMvc\bin\Microsoft.Owin.Security.Facebook.xml
+d:\SaleStroi\IdentityMvc\bin\Microsoft.Owin.Security.Cookies.xml
+d:\SaleStroi\IdentityMvc\bin\Microsoft.Owin.Security.OAuth.xml
+d:\SaleStroi\IdentityMvc\bin\Microsoft.Owin.Security.Google.xml
+d:\SaleStroi\IdentityMvc\bin\Microsoft.Owin.Security.Twitter.xml
+d:\SaleStroi\IdentityMvc\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+d:\SaleStroi\IdentityMvc\obj\Debug\IdentityMvc.csprojResolveAssemblyReference.cache
+d:\SaleStroi\IdentityMvc\obj\Debug\IdentityMvc.Migrations.InitialCreate.resources
+d:\SaleStroi\IdentityMvc\obj\Debug\IdentityMvc.Migrations.DataMigration.resources
+d:\SaleStroi\IdentityMvc\obj\Debug\IdentityMvc.Migrations.DataMigration1.resources
+d:\SaleStroi\IdentityMvc\obj\Debug\IdentityMvc.Migrations.OrdersAndTovars.resources
+d:\SaleStroi\IdentityMvc\obj\Debug\IdentityMvc.csproj.GenerateResource.Cache
+d:\SaleStroi\IdentityMvc\obj\Debug\IdentityMvc.dll
+d:\SaleStroi\IdentityMvc\obj\Debug\IdentityMvc.pdb
