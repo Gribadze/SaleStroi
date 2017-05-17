@@ -8,17 +8,19 @@ namespace SaleStroy.Models
 {
     public class Tovar
     {
+        [Key]
         public int Id { get; set; }
         [Required]
         [Display(Name = "Имя товара")]
         public string TovarName { get; set; }
-        [Display(Name = "В наличии")]
+        [Display(Name = "Количество")]
         public int Quantity { get; set; }
         [Display(Name = "Цена")]
         public int Price { get; set; }
         [Display(Name = "Описание")]
         public string Def { get; set; }
         [Display(Name = "Изображение")]
-        public string ImgPath { get; set; }
+        public string AttachedImg { get; set; }
+
     }
 }

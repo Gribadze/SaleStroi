@@ -22,7 +22,8 @@ namespace SaleStroy.Controllers
         {
             ViewBag.Users = db.Users.ToList();
             ViewBag.Tovars = db.Tovars.ToList();
-            return View(db.Orders.ToList());
+            var Orders = db.Orders.Select(ord => db.Tovars.Where(tov => tov.Id == ord.IdTovar).Select(tov => tov.TovarName));
+            return View(Orders.ToList());
         }
 
         // GET: Orders/Details/5

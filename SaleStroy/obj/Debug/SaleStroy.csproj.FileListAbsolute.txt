@@ -157,9 +157,6 @@ D:\recover\SaleStroy\SaleStroy\bin\roslyn\System.Reflection.Metadata.dll
 D:\recover\SaleStroy\SaleStroy\bin\roslyn\vbc.exe
 D:\recover\SaleStroy\SaleStroy\bin\roslyn\VBCSCompiler.exe
 D:\recover\SaleStroy\SaleStroy\bin\roslyn\VBCSCompiler.exe.config
-D:\recover\SaleStroy\SaleStroy\bin\IdentityMvc.dll.config
-D:\recover\SaleStroy\SaleStroy\bin\IdentityMvc.dll
-D:\recover\SaleStroy\SaleStroy\bin\IdentityMvc.pdb
 D:\recover\SaleStroy\SaleStroy\bin\Antlr3.Runtime.dll
 D:\recover\SaleStroy\SaleStroy\bin\EntityFramework.dll
 D:\recover\SaleStroy\SaleStroy\bin\EntityFramework.SqlServer.dll
@@ -217,5 +214,8 @@ D:\recover\SaleStroy\SaleStroy\obj\Debug\SaleStroy.Migrations.DataMigration.reso
 D:\recover\SaleStroy\SaleStroy\obj\Debug\SaleStroy.Migrations.DataMigration1.resources
 D:\recover\SaleStroy\SaleStroy\obj\Debug\SaleStroy.Migrations.OrdersAndTovars.resources
 D:\recover\SaleStroy\SaleStroy\obj\Debug\SaleStroy.csproj.GenerateResource.Cache
-D:\recover\SaleStroy\SaleStroy\obj\Debug\IdentityMvc.dll
-D:\recover\SaleStroy\SaleStroy\obj\Debug\IdentityMvc.pdb
+d:\recover\SaleStroy\SaleStroy\bin\SaleStroy.dll.config
+d:\recover\SaleStroy\SaleStroy\bin\SaleStroy.dll
+d:\recover\SaleStroy\SaleStroy\bin\SaleStroy.pdb
+d:\recover\SaleStroy\SaleStroy\obj\Debug\SaleStroy.dll
+d:\recover\SaleStroy\SaleStroy\obj\Debug\SaleStroy.pdb

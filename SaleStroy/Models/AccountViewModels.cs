@@ -80,17 +80,20 @@ namespace SaleStroy.Models
         [Compare("Password", ErrorMessage = "Пароли не совпадают.")]
         public string ConfirmPassword { get; set; }
 
+        [Required]
         [StringLength(100, ErrorMessage = "{0} должен быть хотя бы {2} символов.", MinimumLength = 4)]
         [DataType(DataType.Text)]
         [Display(Name = "Фамилия")]
         public string Surname { get; set; }
 
+        [Required]
         [StringLength(100, ErrorMessage = "{0} должен быть хотя бы {2} символов.", MinimumLength = 4)]
         [DataType(DataType.Text)]
         [Display(Name = "Имя")]
         public string Name { get; set; }
 
-        [Range(0,100)]
+        [Required]
+        [Range(18,100)]
         [Display(Name = "Возраст")]
         public int AgeValue { get; set; }
 
